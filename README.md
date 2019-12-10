@@ -4,7 +4,7 @@
 
 ##### Brett P. Foreman </h5>
 
-Things I enjoyed about this class:
-*Learning JQuery
-*The Lectures
-*The Projects
+My favorite things I learned this semester:
+* JQuery
+* GitHub
+* More HTML elements
