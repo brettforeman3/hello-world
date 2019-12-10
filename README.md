@@ -1,5 +1,3 @@
-# new-repository
+# Interactive Digital Communication II </h1>
 
-# IDC 2 </h1>
-
-## Peter Yezek </h2>
+## Peter Yezek - Comm 3159-01 </h2>
