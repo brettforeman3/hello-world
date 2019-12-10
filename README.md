@@ -19,5 +19,5 @@ Being able to create a fan site was way more enjoyable than I ever thought it wo
 In regards to my page, my friend Ben said:
 >This is a really nice page! I love the graphics.
 
-\* I really thought his site was better \*
+\* I really thought his site was better \* :wink: :+1: :star: :football:
 
