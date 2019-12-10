@@ -4,11 +4,13 @@
 
 ##### Brett P. Foreman </h5>
 
-###### My favorite things I learned this semester: </h6>
+###### __My favorite things I learned this semester:__ </h6>
 * JQuery
 * GitHub
 * More HTML elements
-###### Things that I already knew about: </h6>
+###### __Things that I already knew about:__ </h6>
 1. Most terminology
 2. Basic computer networks
 3. How to use HTML and CSS
+
+
