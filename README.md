@@ -27,3 +27,4 @@ function test() {
  console.log("I love to code!!");
 }
 ```
+This class made coding not awful for me.
