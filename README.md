@@ -21,3 +21,8 @@ In regards to my page, my friend Ben said:
 
 \* I really thought his site was better \* :wink: :+1: :star: :football:
 
+```javascript
+function test() {
+ console.log("I think I did it");
+}
+```
