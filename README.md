@@ -23,6 +23,6 @@ In regards to my page, my friend Ben said:
 
 ```javascript
 function test() {
- console.log("I think I did it");
+ console.log("Did I do this correct??");
 }
 ```
