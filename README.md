@@ -21,8 +21,9 @@ In regards to my page, my friend Ben said:
 
 \* I really thought his site was better \* :wink: :+1: :star: :football:
 
+One thing I learned to enjoy much better than before in this class is simply coding.
 ```javascript
 function test() {
- console.log("Did I do this correct??");
+ console.log("I love to code!!");
 }
 ```
