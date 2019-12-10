@@ -14,5 +14,7 @@
 3. How to use HTML and CSS *(What I was most familiar with)*
 
 The most fun I had on an assingment outside of class was learning **WordPress**!
-Being able to create a fan site was way more enjoyable than I ever thought it would be.
+Being able to create a fan site was way more enjoyable than I ever thought it would be. Here is one of the graphics I made for this site and included: 
+![GitHub Logo](/School Work/Fall 2019/Coding/Wordpress graphic.jpg)
+Format: ![Alt Text](url)
 
