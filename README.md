@@ -35,3 +35,8 @@ This class made coding not awful for me.
 - [x] see family
 - [x] relax
 - [ ] code
+
+Meals | Days
+------------ | -------------
+Christmas Dinner | 7 pm Dec. 25
+New Years Eve meal | 7 pm Dec 31
