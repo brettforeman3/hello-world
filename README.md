@@ -40,3 +40,4 @@ Meals | Days
 ------------ | -------------
 Christmas Dinner | 7 pm Dec. 25
 New Years Eve meal | 7 pm Dec 31
+Sleep :sleeping: | Everyday
