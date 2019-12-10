@@ -28,3 +28,10 @@ function test() {
 }
 ```
 This class made coding not awful for me.
+
+### To Do list over Christmas break </h3>
+- [x] sleep
+- [x] eat
+- [x] see family
+- [x] relax
+- [ ] code
