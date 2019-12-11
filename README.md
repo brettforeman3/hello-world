@@ -16,7 +16,7 @@
   The most fun I had on an assingment outside of class was learning **WordPress**!
 Being able to create a fan site was way more enjoyable than I ever thought it would be. Here is the link to the page I made: https://weblab.uni.edu/foremanb/wordpress/
 
-Here is one of the graphics I put on my page:
+Here <!-- look at this @manicsparkle --> is one of the graphics I put on my page:
 
 ![Wordpress graphic](https://user-images.githubusercontent.com/58488508/70588439-58f75200-1b92-11ea-9668-dc15b2105c9b.jpg)
 
