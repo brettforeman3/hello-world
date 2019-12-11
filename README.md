@@ -18,7 +18,7 @@ Being able to create a fan site was way more enjoyable than I ever thought it wo
 
 Here is one of the graphics I put on my page:
 
-![My Pic](hello-world/images/Wordpress graphic.jpg)
+![Wordpress graphic](https://user-images.githubusercontent.com/58488508/70588439-58f75200-1b92-11ea-9668-dc15b2105c9b.jpg)
 
 In regards to my page, my friend Ben said:
 >This is a really nice page! I love the graphics.
