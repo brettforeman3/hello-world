@@ -1,6 +1,6 @@
 # Interactive Digital Communication II </h1>
 
-## Peter Yezek (@manicsparkle) - Comm 3159-01 </h2>
+## Peter Yezek - Comm 3159-01 </h2>
 
 ##### Brett P. Foreman </h5>
 
