@@ -18,7 +18,7 @@ Being able to create a fan site was way more enjoyable than I ever thought it wo
 
 Here is one of the graphics I put on my page:
 
-![Wordpress Page](images/Wordpress graphic.jpg)
+![Wordpress Page](C:\Users\brett\Desktop\images/Wordpress graphic.jpg)
 Format: ![My Graphic](url)
 
 In regards to my page, my friend Ben said:
